@@ -1,0 +1,20 @@
+## npm init
+## npm install express --save
+
+running the server
+## node app.js
+
+## npm install -g nodemon
+
+## npm install express-handlebars --save
+
+## sudo npm install --save mongoose
+
+
+## sudo npm i --save body-parser (use it when handle the form)
+
+## sudo npm i --save method-override (use it for put request)
+
+## sudo npm i express-session connect-flash --save
+
+## sudo npm install passport passport-local
